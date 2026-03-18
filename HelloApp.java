@@ -18,7 +18,3 @@ public class HelloApp {
         else {
             // Default message
             System.out.println("Hello, World!");
-        }
-
-    }
-}
